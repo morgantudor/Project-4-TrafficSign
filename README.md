@@ -1,7 +1,7 @@
 # Model Learning: Identifying Traffic Signs
 
 ## Description
-With the ergence in popularity and use of autonomous systems for driving and navigating roadways, it's never been more important that technology be able to identify and react to roadway signs. Not only will the ability to read and respond to these signs appropriate improve user experience, it will also ensure the safety of all roadway users and pedestrians alike. Our model seeks to train using the German Traffic Sign Recognition Benchmark (GTSRB) dataset to accuratly identify traffic signs. We do this by creating a Convolutional Neural Network (CNN), training, testing, and validating our model.
+With the emergence in popularity and use of autonomous systems for driving and navigating roadways, it's never been more important that technology be able to identify and react to roadway signs. Not only will the ability to read and respond to these signs appropriate improve user experience, it will also ensure the safety of all roadway users and pedestrians alike. Our model seeks to train using the German Traffic Sign Recognition Benchmark (GTSRB) dataset to accuratly identify traffic signs. We do this by creating a Convolutional Neural Network (CNN), training, testing, and validating our model.
 
 
 ## Table of Contents
